@@ -1,0 +1,3 @@
+﻿  seminar4_type_shi.cpp
+C:\Users\ercul\source\repos\Seminar 4 Type Shi\Seminar 4 Type Shi\seminar4_type_shi.cpp(59,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ercul\source\repos\Seminar 4 Type Shi\Seminar 4 Type Shi\seminar4_type_shi.cpp(73,15): error C3892: 's': you cannot assign to a variable that is const

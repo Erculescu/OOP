@@ -1,0 +1,4 @@
+﻿  Seminar.cpp
+C:\Users\ercul\source\repos\Seminar 11\Seminar 11\Seminar.cpp(184,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ercul\source\repos\Seminar 11\Seminar 11\Seminar.cpp(187,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  Seminar 11.vcxproj -> C:\Users\ercul\source\repos\Seminar 11\x64\Debug\Seminar 11.exe

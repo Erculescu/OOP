@@ -1,0 +1,5 @@
+﻿  Tema.cpp
+C:\Users\ercul\source\repos\Tema Seminar 6\Tema Seminar 6\Tema.cpp(213,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ercul\source\repos\Tema Seminar 6\Tema Seminar 6\Tema.cpp(218,12): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ercul\source\repos\Tema Seminar 6\Tema Seminar 6\Tema.cpp(220,11): warning C4305: 'argument': truncation from 'double' to 'float'
+  Tema Seminar 6.vcxproj -> C:\Users\ercul\source\repos\Tema Seminar 6\x64\Debug\Tema Seminar 6.exe

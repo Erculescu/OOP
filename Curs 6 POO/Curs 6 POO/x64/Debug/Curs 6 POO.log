@@ -1,0 +1,3 @@
+﻿  Curs.cpp
+C:\Users\ercul\source\repos\Curs 6 POO\Curs 6 POO\Curs.cpp(248,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Curs 6 POO.vcxproj -> C:\Users\ercul\source\repos\Curs 6 POO\x64\Debug\Curs 6 POO.exe

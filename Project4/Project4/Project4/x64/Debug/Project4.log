@@ -1,0 +1,2 @@
+﻿  Tema seminar 4.cpp
+C:\Users\ercul\source\repos\Project4\Project4\Tema seminar 4.cpp(44,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

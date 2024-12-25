@@ -1,0 +1,6 @@
+﻿  Tema.cpp
+C:\Users\ercul\source\repos\Tema_POO_attempt2\Tema_POO_attempt2\Tema.cpp(5,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+      C:\Users\ercul\source\repos\Tema_POO_attempt2\Tema_POO_attempt2\Tema.cpp(5,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+  Tema_POO_attempt2.vcxproj -> C:\Users\ercul\source\repos\Tema_POO_attempt2\x64\Debug\Tema_POO_attempt2.exe

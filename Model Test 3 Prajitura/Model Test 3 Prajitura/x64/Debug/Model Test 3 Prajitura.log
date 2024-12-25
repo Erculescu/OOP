@@ -1,0 +1,3 @@
+﻿  Model Test.cpp
+C:\Users\ercul\source\repos\Model Test 3 Prajitura\Model Test 3 Prajitura\Model Test.cpp(164,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Model Test 3 Prajitura.vcxproj -> C:\Users\ercul\source\repos\Model Test 3 Prajitura\x64\Debug\Model Test 3 Prajitura.exe

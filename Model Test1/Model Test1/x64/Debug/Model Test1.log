@@ -1,0 +1,6 @@
+﻿  Model1.cpp
+C:\Users\ercul\source\repos\Model Test1\Model Test1\Model1.cpp(221,9): warning C4101: 'aux': unreferenced local variable
+C:\Users\ercul\source\repos\Model Test1\Model Test1\Model1.cpp(317,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ercul\source\repos\Model Test1\Model Test1\Model1.cpp(317,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ercul\source\repos\Model Test1\Model Test1\Model1.cpp(317,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Model Test1.vcxproj -> C:\Users\ercul\source\repos\Model Test1\x64\Debug\Model Test1.exe

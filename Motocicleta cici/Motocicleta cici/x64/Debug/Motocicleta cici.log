@@ -1,0 +1,4 @@
+﻿  Moto.cpp
+C:\Users\ercul\source\repos\Motocicleta cici\Motocicleta cici\Moto.cpp(123,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ercul\source\repos\Motocicleta cici\Motocicleta cici\Moto.cpp(129,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Motocicleta cici.vcxproj -> C:\Users\ercul\source\repos\Motocicleta cici\x64\Debug\Motocicleta cici.exe

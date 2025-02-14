@@ -1,0 +1,6 @@
+﻿  Curent.cpp
+C:\Users\ercul\source\repos\Curent Electric\Curent Electric\Curent.cpp(206,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ercul\source\repos\Curent Electric\Curent Electric\Curent.cpp(232,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ercul\source\repos\Curent Electric\Curent Electric\Curent.cpp(233,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ercul\source\repos\Curent Electric\Curent Electric\Curent.cpp(235,8): warning C4305: 'argument': truncation from 'double' to 'float'
+  Curent Electric.vcxproj -> C:\Users\ercul\source\repos\Curent Electric\x64\Debug\Curent Electric.exe

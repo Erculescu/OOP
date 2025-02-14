@@ -1,0 +1,6 @@
+﻿  Asociatii.cpp
+C:\Users\ercul\source\repos\Asociatie Locatari\Asociatie Locatari\Asociatii.cpp(65,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ercul\source\repos\Asociatie Locatari\Asociatie Locatari\Asociatii.cpp(68,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ercul\source\repos\Asociatie Locatari\Asociatie Locatari\Asociatii.cpp(237,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ercul\source\repos\Asociatie Locatari\Asociatie Locatari\Asociatii.cpp(240,12): warning C4552: '-': result of expression not used
+  Asociatie Locatari.vcxproj -> C:\Users\ercul\source\repos\Asociatie Locatari\x64\Debug\Asociatie Locatari.exe

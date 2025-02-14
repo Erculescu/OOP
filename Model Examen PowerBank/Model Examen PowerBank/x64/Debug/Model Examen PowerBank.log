@@ -1,0 +1,5 @@
+﻿  Powerbank.cpp
+C:\Users\ercul\source\repos\Model Examen PowerBank\Model Examen PowerBank\Powerbank.cpp(243,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ercul\source\repos\Model Examen PowerBank\Model Examen PowerBank\Powerbank.cpp(243,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ercul\source\repos\Model Examen PowerBank\Model Examen PowerBank\Powerbank.cpp(243,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Model Examen PowerBank.vcxproj -> C:\Users\ercul\source\repos\Model Examen PowerBank\x64\Debug\Model Examen PowerBank.exe

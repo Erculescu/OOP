@@ -1,0 +1,5 @@
+﻿  Polinom.cpp
+C:\Users\ercul\source\repos\Polinom\Polinom\Polinom.cpp(182,12): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ercul\source\repos\Polinom\Polinom\Polinom.cpp(184,12): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ercul\source\repos\Polinom\Polinom\Polinom.cpp(196,12): warning C4305: 'argument': truncation from 'double' to 'float'
+  Polinom.vcxproj -> C:\Users\ercul\source\repos\Polinom\x64\Debug\Polinom.exe

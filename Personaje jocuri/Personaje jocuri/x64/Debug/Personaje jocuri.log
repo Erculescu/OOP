@@ -1,0 +1,16 @@
+﻿  Protagonist.cpp
+C:\Users\ercul\source\repos\Personaje jocuri\Personaje jocuri\Protagonist.cpp(114,31): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\ercul\source\repos\Personaje jocuri\Personaje jocuri\Protagonist.cpp(114,31): warning C4244:         with
+C:\Users\ercul\source\repos\Personaje jocuri\Personaje jocuri\Protagonist.cpp(114,31): warning C4244:         [
+C:\Users\ercul\source\repos\Personaje jocuri\Personaje jocuri\Protagonist.cpp(114,31): warning C4244:             T=double
+C:\Users\ercul\source\repos\Personaje jocuri\Personaje jocuri\Protagonist.cpp(114,31): warning C4244:         ]
+      C:\Users\ercul\source\repos\Personaje jocuri\Personaje jocuri\Protagonist.cpp(114,31):
+      the template instantiation context (the oldest one first) is
+          C:\Users\ercul\source\repos\Personaje jocuri\Personaje jocuri\Protagonist.cpp(205,5):
+          see reference to function template instantiation 'void PersonaJJOc::adauga<double>(T)' being compiled
+          with
+          [
+              T=double
+          ]
+  
+  Personaje jocuri.vcxproj -> C:\Users\ercul\source\repos\Personaje jocuri\x64\Debug\Personaje jocuri.exe

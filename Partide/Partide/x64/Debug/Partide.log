@@ -1,0 +1,3 @@
+﻿  Partid.cpp
+C:\Users\ercul\source\repos\Partide\Partide\Partid.cpp(267,26): warning C4356: 'Asociatie::cotizatie': static data member cannot be initialized via derived class
+  Partide.vcxproj -> C:\Users\ercul\source\repos\Partide\x64\Debug\Partide.exe
